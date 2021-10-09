@@ -1,0 +1,5 @@
+E->E+T|T T->T*F|F F->a|(E) B->+|*F*
+E T F
+a + * ( )
+E
+stanga
